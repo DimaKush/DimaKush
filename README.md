@@ -1,7 +1,7 @@
 # 👋 Hi, I'm DimaKush
 
 **Full Stack Developer**  
-🌐 Building the decentralized future, one block at a time.  
+🌐 Building the future I want to be a part of.  
 
 ---
 
