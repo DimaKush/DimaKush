@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DimaKush
 
-**Full Stack Developer**  
+**Full Stack Developer | Cursor operator**  
 🌐 Building the future I want to be a part of.  
 
 ---
